@@ -1,0 +1,9 @@
+langchain>=0.0.76
+langchain-community>=0.0.3
+langchain-weaviate>=0.0.1
+weaviate-client>=3.2.0
+PyPDF2>=3.0.1
+pydantic>=1.10.12
+numpy>=1.21.2
+requests>=2.26.0
+tqdm>=4.62.3
